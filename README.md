@@ -12,15 +12,15 @@ Hello, I am Devansh Parapalli, a student learning the ropes. I love hacking toge
 
 **Languages and Tools:**
 
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="36" src="https://fastapi.tiangolo.com/img/icon-white.svg"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
-<code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<a href=""><code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
+<a href=""><code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></a>
+<a href=""><code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code></a>
+<a href=""><code><img height="36" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code></a>
+<a href=""><code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code></a>
+<a href=""><code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code></a>
+<a href="https://fastapi.tiangolo.com"><code><img height="36" src="https://fastapi.tiangolo.com/img/icon-white.svg"></code></a>
+<a href=""><code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code></a>
+<a href=""><code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code></a>
 
 <br />
 
@@ -38,12 +38,12 @@ Hello, I am Devansh Parapalli, a student learning the ropes. I love hacking toge
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevParapalli&theme=material-palenight&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)
 
-<br />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevParapalli&layout=compact&langs_count=8&theme=material-palenight&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevParapalli&langs_count=8&theme=material-palenight&show_icons=true&hide_border=true)
-<!--![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevParapalli&theme=material-palenight&hide_border=true)-->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevParapalli&theme=material-palenight&hide_border=true)
 
 </details>
+
 <br />
 
 <details>
