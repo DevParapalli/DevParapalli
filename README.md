@@ -54,4 +54,15 @@ Hello, I am Devansh Parapalli, a student learning the ropes. I love hacking toge
   - [GitHub Streak](https://github.com/DenverCoder1/github-readme-streak-stats), Provided by [DenverCoder1](https://github.com/DenverCoder1)
 </details>
 
+<details id="beep-boop">
+<summary>beep-boop-beep</summary>
+
+```json
+{
+   "nationality":"Indian",
+   "education":"Year-12 CBSE",
+   "magic-number":"18-M"
+}
+```
+</details>
 ###### 💾 EOF
