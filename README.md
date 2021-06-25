@@ -6,7 +6,7 @@ Hello, I am Devansh Parapalli, a student learning the ropes. I love hacking toge
 
 ![Email Alpha](https://img.shields.io/static/v1?label=Email&message=parapallidev@gmail.com&color=informational&logo=gmail&style=flat-square)
 ![Email Beta](https://img.shields.io/static/v1?label=Email&message=devparapalli@gmail.com&color=informational&logo=gmail&style=flat-square)
-![Discord](https://img.shields.io/static/v1?label=Discord&message=RogueCatalyst%230001&color=informational&logo=discord&style=flat-square)
+![Discord](https://img.shields.io/static/v1?label=Discord&message=DevParapalli%230001&color=informational&logo=discord&style=flat-square)
 ![Twitter](https://img.shields.io/static/v1?label=Twitter&message=@RogueCatalyst&color=informational&logo=twitter&style=flat-square)
 ![Reddit](https://img.shields.io/static/v1?label=Reddit&message=%2Fu%2FDevParapalli&color=informational&logo=reddit&style=flat-square)
 
