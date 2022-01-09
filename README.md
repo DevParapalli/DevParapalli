@@ -1,6 +1,6 @@
 # Hello There 👋
 
-Hello, I am Devansh Parapalli, a student learning the ropes. I love hacking together and bodging stuff. I tend to be a guy who, when left alone with a problem and given enough time, will find a solution. Besides this, I enjoy reading books and trying to cook food. Studying Year-12, CBSE.
+Hello, I am Devansh Parapalli, a student learning the ropes. I love hacking together and bodging stuff. I tend to be a guy who, when left alone with a problem and given enough time, will find a solution. Besides this, I enjoy reading books and trying to cook food. Studying CSE at GCOEN.
 
 <br />
 
