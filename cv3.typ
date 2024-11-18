@@ -40,9 +40,9 @@
 = Experience
 
 #resume-entry(
-  title: "Software Engineer Intern",
+  title: "Software Engineering Intern",
   location: "Nagpur, Maharashtra, India",
-  date: "Jun 2024 -- Present",
+  date: "Jun 2024 -- Aug 2024",
   description: "PolymathAI",
 )
 
@@ -69,6 +69,22 @@
 = Projects
 
 #resume-entry(
+  title: "AIKO: AI-powered Knowledge Organizer",
+  location: "Govt. College of Engg., Nagpur",
+  date: "June 2024 -- Ongoing",
+  description: "College Mega-Project",
+)
+
+#resume-item[
+  - Developed an AI-powered knowledge organizer to streamline information retrieval and organization, reducing time spent on information retrieval by 75%.
+  - Engineered a custom NLP pipeline for content embedding, supporting major formats including text, images, and audio. Reengineered the LLM connection to reduce the response time by 85%.
+  - Implemented a serverless data storage platform using Amazon S3, PostgreSQL and Supabase.
+  - Conducted Unit, End-to-End, Verification and Validation, Acceptance and User Testing, resulting in a 90% satisfaction rate and a 80% increase in user productivity.
+  - Created and maintained documentation for the project, ensuring seamless onboarding for new team members.
+  - Link: #link("https://aiko.parapalli.dev")[https://aiko.parapalli.dev]
+]
+
+#resume-entry(
   title: "ARA: AI-powered Research Assistant",
   location: "Govt. College of Engg., Nagpur",
   date: "Jan 2024 -- May 2024",
@@ -83,21 +99,21 @@
   - Link: #link("https://ara.parapalli.dev")[https://ara.parapalli.dev]
 ]
 
-#resume-entry(
-  title: "Adhyaaya'23",
-  location: "Govt. College of Engg., Nagpur",
-  date: "Dec 2022 -- Mar 2023",
-  description: "Web application for College Tech-Fest",
-)
+// #resume-entry(
+//   title: "Adhyaaya'23",
+//   location: "Govt. College of Engg., Nagpur",
+//   date: "Dec 2022 -- Mar 2023",
+//   description: "Web application for College Tech-Fest",
+// )
 
-#resume-item[
-  - Spearheaded the development of a full-stack web application for the college techfest, increasing event registration efficiency by 70%.
-  - Integrated Razorpay payment gateway, reducing checkout friction by 65% and increasing successful registrations by 40%.
-  - Engineered the front-end using Svelte, SvelteKit, Three.js, and TailwindCSS, achieving a 40% improvement in page load times.
-  - Designed and implemented a robust database schema using Supabase, optimizing query performance by 55%.
-  - Developed backend services using Deno and Python, handling concurrent requests while still keeping the max Time-To-First-Byte of 0.13s.
-  - Link: #link("https://adhyaaya23.parapalli.dev")[https://adhyaaya23.parapalli.dev]
-]
+// #resume-item[
+//   - Spearheaded the development of a full-stack web application for the college techfest, increasing event registration efficiency by 70%.
+//   - Integrated Razorpay payment gateway, reducing checkout friction by 65% and increasing successful registrations by 40%.
+//   - Engineered the front-end using Svelte, SvelteKit, Three.js, and TailwindCSS, achieving a 40% improvement in page load times.
+//   - Designed and implemented a robust database schema using Supabase, optimizing query performance by 55%.
+//   - Developed backend services using Deno and Python, handling concurrent requests while still keeping the max Time-To-First-Byte of 0.13s.
+//   - Link: #link("https://adhyaaya23.parapalli.dev")[https://adhyaaya23.parapalli.dev]
+// ]
 
 // #resume-entry(
 //   title: "Synergy 2022",
@@ -126,7 +142,7 @@
 
 #resume-item[
   // - ChromeExtension0: A small chrome extension to quickly save and access those saved pages. \ #link("https://github.com/DevParapalli/ChromeExtension0")[Link : https://github.com/DevParapalli/ChromeExtension0]
-  // - Adhyaaya'23 Coming Soon: An engaging coming soon landing page for tech fest. \ #link("https://adhyaaya23-coming-soon.parapalli.dev")[Link: https://adhyaaya23-coming-soon.parapalli.dev]
+  - Adhyaaya'23: Fast, Modern Website created for Adhyaaya'23, a college tech fest. \ #link("https://adhyaaya23.parapalli.dev")[Link: https://adhyaaya23.parapalli.dev]
   // - Miscellaneous 1: a 30 minute UI-challenge made with SvelteKit \ #link("https://misc1.parapalli.dev")[Link: https://misc1.parapalli.dev]
   - Adhyaaya'22: Innovative User Experience, written in Svelte \ #link("https://adhyaaya22.parapalli.dev")[Link: https://adhyaaya22.parapalli.dev]
   - Synergy'22: Departmental Tech-Fest, written in Svelte \ #link("https://synergy22.parapalli.dev")[Link: https://synergy22.parapalli.dev]
@@ -135,7 +151,7 @@
 = Skills
 
 #resume-skill-item(
-  "Programming Languages",
+  "Languages",
   ("Python", "C/C++", "JavaScript/TypeScript", "Rust", "SQL", "Java", "Shell Scripting"),
 )
 
@@ -169,7 +185,7 @@
 #resume-entry(
   title: "Vice President",
   location: "Govt. College of Engg., Nagpur",
-  date: "Sep 2023 -- Present",
+  date: "Sep 2023 -- August 2024",
   description: "Computer Science Student's Association (COMSA)",
 )
 
@@ -194,20 +210,20 @@
   description: "Google Developer Student Club",
 )
 
-= Publications
+// = Publications
 
-#resume-entry(
-  title: "ARA: Artificial Intelligence powered Research Assistant",
-  location: "ResearchGate",
-  date: "Apr 2024",
-  description: "Author",
-)
+// #resume-entry(
+//   title: "ARA: Artificial Intelligence powered Research Assistant",
+//   location: "ResearchGate",
+//   date: "Apr 2024",
+//   description: "Author",
+// )
 
-#resume-item[
-  - Authored a paper introducing ARA, an innovative AI application designed to revolutionize academic research
-  - Detailed methodology, implementation, evaluation results, and discussed ethical considerations
-  - DOI: #link("http://dx.doi.org/10.13140/RG.2.2.28162.90567/1")[10.13140/RG.2.2.28162.90567/1]
-]
+// #resume-item[
+//   - Authored a paper introducing ARA, an innovative AI application designed to revolutionize academic research
+//   - Detailed methodology, implementation, evaluation results, and discussed ethical considerations
+//   - DOI: #link("http://dx.doi.org/10.13140/RG.2.2.28162.90567/1")[10.13140/RG.2.2.28162.90567/1]
+// ]
 
 = Awards
 
@@ -234,12 +250,12 @@
 //   description: "Regional Finalist",
 // )
 
-#resume-entry(
-  title: "World Robotics Olympiad - Open Category",
-  location: "Abu Dhabi, UAE",
-  date: "2017",
-  description: "2nd Place",
-)
+// #resume-entry(
+//   title: "World Robotics Olympiad - Open Category",
+//   location: "Abu Dhabi, UAE",
+//   date: "2017",
+//   description: "2nd Place",
+// )
 
 #text(style: "italic", size: 14pt)[Academic Achievements]
 #resume-entry(
