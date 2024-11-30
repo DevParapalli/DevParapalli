@@ -10,14 +10,14 @@
     (text: [+918793150182], link: "tel:+918793150182"),
     (text: [parapalli.dev], link: "https://parapalli.dev"),
     (text: [#fa-icon("github") DevParapalli], link: "https://github.com/DevParapalli"),
-    (text: [airbus\@parapalli.dev], link: "mailto:airbus@parapalli.dev"),
+    (text: [siemens\@parapalli.dev], link: "mailto:siemens@parapalli.dev"),
   ),
   recipient: (
     start-title: [Dear Hiring Team,],
     cl-title: [Job Application for Software Engineer],
-    date: [November 23, 2024],
-    department: [Oracle Cloud Infrastructure],
-    institution: [Oracle],
+    date: [November 30, 2024],
+    department: [R&D Department],
+    institution: [SIEMENS],
     address: [],
     postcode: [],
   ),
@@ -26,15 +26,15 @@
 #set par(justify: true, first-line-indent: 2em)
 #set text(weight: "regular", size: 12pt)
 
-I'm reaching out about the Full Stack Engineer position at GSK. After reading through the job description, I got really excited about the work your Emerging Tech team is doing, especially in the AI and cloud space.
+I'm reaching out about a position at SIEMENS. As a Computer Science student at Government College of Engineering Nagpur, I got really excited when I saw this opportunity - especially since it would let me work on products that help engineers build better hardware.
 
-For the past few years, I've been working on projects that line up perfectly with what you're looking for. At AIKO, I built an AI-powered knowledge system from the ground up, working with everything from custom NLP pipelines to cloud infrastructure on AWS. I managed to cut response times by 85% - something I'm pretty proud of. I've also got solid experience with Azure and GCP, and I'm comfortable working with both Python and Java.
+In my recent projects, I've worked extensively with many of the technologies you're looking for. At PolymathAI, where my most recent position was, I have been building full-stack applications using React and Node.js. I've also built several web applications from scratch, including AIKO and ARA, where I worked with PostgreSQL and implemented complex backend architectures. These projects taught me a lot about building scalable services and writing clean, reusable code.
 
-What really caught my eye about this role is the chance to work on cutting-edge AI projects like the Azure OpenAI plugins and AI Search framework. I love the challenge of turning complex requirements into practical solutions, and I've done quite a bit of this while developing ARA, where we had to make AI tools actually useful for real students. The fact that GSK is using these technologies to improve healthcare makes the work even more meaningful.
+What really draws me to SIEMENS is the chance to work on products that have real impact in the engineering world. I love tackling technical challenges and finding elegant solutions - something I've done repeatedly while leading development teams for our college tech fests. The fact that SIEMENS encourages innovation and provides opportunities to work with cutting-edge technology makes this opportunity particularly exciting for me.
 
-I'm the kind of developer who enjoys diving into new technologies and figuring things out independently.Over the course of my college, I've learned how to communicate technical concepts to different audiences and work effectively with diverse teams - skills that I think would be valuable in this position.
+I'm a quick learner and always eager to pick up new skills. Whether it's figuring out a tricky Docker configuration or optimizing database queries, I enjoy diving deep into technical problems. I also believe my experience collaborating with teams on various projects has prepared me well for working in your engineering team.
 
-I'd love to chat more about how I could contribute to your team and learn from the innovative work you're doing at GSK. Thanks for considering my application.
+I'd love to talk more about how I can contribute to SIEMENS's mission. Thanks for considering my application!
 
 #par(first-line-indent: 0pt,text(size: 10pt)[_P.S. You can check out my projects at aiko.parapalli.dev and ara.parapalli.dev if you'd like to see my work in action._])
 

@@ -50,6 +50,7 @@
   - Creating AI-powered web application, increasing content organization efficiency by 40% through integration of NLP, LLMs, and machine learning.
   - Leading the development of full-stack applications and web extensions using MERN stack and Next.js
   - Implementing AI models to enhance product functionality and user experience
+  - Developed a robust content scraping framework, cabable of ingesting multiple data formats.
   - Collaborating with the founding team on feature development spanning web and AI components
 ]
 
@@ -138,10 +139,13 @@
 //   description: "",
 // )
 
+#pagebreak()
+
 #text(style: "italic", size: 14pt)[Miscellaneous Projects]
 
 #resume-item[
   // - ChromeExtension0: A small chrome extension to quickly save and access those saved pages. \ #link("https://github.com/DevParapalli/ChromeExtension0")[Link : https://github.com/DevParapalli/ChromeExtension0]
+  - AutomaticResults: Developed an automated web scraping tool using Python to extract student results from university portal, parse PDF admit cards, and generate  rankings for 100+ students with 100% accuracy.
   - Adhyaaya'23: Fast, Modern Website created for Adhyaaya'23, a college tech fest. \ #link("https://adhyaaya23.parapalli.dev")[Link: https://adhyaaya23.parapalli.dev]
   // - Miscellaneous 1: a 30 minute UI-challenge made with SvelteKit \ #link("https://misc1.parapalli.dev")[Link: https://misc1.parapalli.dev]
   - Adhyaaya'22: Innovative User Experience, written in Svelte \ #link("https://adhyaaya22.parapalli.dev")[Link: https://adhyaaya22.parapalli.dev]
@@ -257,13 +261,13 @@
 //   description: "2nd Place",
 // )
 
-#text(style: "italic", size: 14pt)[Academic Achievements]
-#resume-entry(
-  title: "IDE Bootcamp organized under AICTE for SIH Finalists",
-  location: "India",
-  date: "2024",
-  description: "Winner",
-)
+// #text(style: "italic", size: 14pt)[Academic Achievements]
+// #resume-entry(
+//   title: "IDE Bootcamp organized under AICTE for SIH Finalists",
+//   location: "India",
+//   date: "2024",
+//   description: "Winner",
+// )
 
 #text(style: "italic", size: 14pt)[Community Contributions]
 
