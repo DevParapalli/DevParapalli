@@ -10,14 +10,14 @@
     (text: [+918793150182], link: "tel:+918793150182"),
     (text: [parapalli.dev], link: "https://parapalli.dev"),
     (text: [#fa-icon("github") DevParapalli], link: "https://github.com/DevParapalli"),
-    (text: [siemens\@parapalli.dev], link: "mailto:siemens@parapalli.dev"),
+    (text: [hey\@parapalli.dev], link: "mailto:hey@parapalli.dev"),
   ),
   recipient: (
     start-title: [Dear Hiring Team,],
     cl-title: [Job Application for Software Engineer],
-    date: [November 30, 2024],
-    department: [R&D Department],
-    institution: [SIEMENS],
+    date: [December 11, 2024],
+    department: [],
+    institution: [Akamai],
     address: [],
     postcode: [],
   ),
@@ -25,16 +25,13 @@
 
 #set par(justify: true, first-line-indent: 2em)
 #set text(weight: "regular", size: 12pt)
+I am writing to express my strong interest in the Software Engineer II position within Akamai's Networks department. As a Computer Science student with extensive experience in software development and AI technologies, I am excited about the opportunity to contribute to Akamai's mission of powering and protecting life online.
 
-I'm reaching out about a position at SIEMENS. As a Computer Science student at Government College of Engineering Nagpur, I got really excited when I saw this opportunity - especially since it would let me work on products that help engineers build better hardware.
+My technical background aligns perfectly with your requirements. Through my internship at PolymathAI, I developed AI-powered web applications using the MERN stack and Next.js, improving content organization efficiency by 40%. I have hands-on experience with Python, React, and SQL databases, as demonstrated in my projects AIKO and ARA, where I engineered custom NLP pipelines and implemented scalable data storage systems using PostgreSQL. My experience with Docker, Kubernetes, and AWS, combined with my strong Linux background, positions me well to contribute to your network operations systems. Additionally, my role as Vice President of the Computer Science Student's Association has honed my ability to understand complex business needs and collaborate effectively with diverse teams.
 
-In my recent projects, I've worked extensively with many of the technologies you're looking for. At PolymathAI, where my most recent position was, I have been building full-stack applications using React and Node.js. I've also built several web applications from scratch, including AIKO and ARA, where I worked with PostgreSQL and implemented complex backend architectures. These projects taught me a lot about building scalable services and writing clean, reusable code.
+I am particularly drawn to Akamai's commitment to solving challenging technical problems and creating innovative solutions. Your focus on distributed computing and edge technology aligns perfectly with my career aspirations in building scalable, high-performance systems. I am excited about the prospect of joining your team and contributing to the development of robust, scalable tools that help maintain Akamai's global platform.
 
-What really draws me to SIEMENS is the chance to work on products that have real impact in the engineering world. I love tackling technical challenges and finding elegant solutions - something I've done repeatedly while leading development teams for our college tech fests. The fact that SIEMENS encourages innovation and provides opportunities to work with cutting-edge technology makes this opportunity particularly exciting for me.
-
-I'm a quick learner and always eager to pick up new skills. Whether it's figuring out a tricky Docker configuration or optimizing database queries, I enjoy diving deep into technical problems. I also believe my experience collaborating with teams on various projects has prepared me well for working in your engineering team.
-
-I'd love to talk more about how I can contribute to SIEMENS's mission. Thanks for considering my application!
+Thank you for considering my application. I look forward to discussing how my skills and enthusiasm can contribute to Akamai's continued success.
 
 #par(first-line-indent: 0pt,text(size: 10pt)[_P.S. You can check out my projects at aiko.parapalli.dev and ara.parapalli.dev if you'd like to see my work in action._])
 
