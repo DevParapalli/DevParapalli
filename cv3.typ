@@ -37,7 +37,7 @@
   description: "12th Standard | CBSE | Percentage: 85 / 100",
 )
 
-= Experience
+= Work Experience
 
 #resume-entry(
   title: "Software Engineering Intern",
@@ -156,27 +156,27 @@
 
 #resume-skill-item(
   "Languages",
-  ("Python", "C/C++", "JavaScript/TypeScript", "Rust", "SQL", "Java", "Shell Scripting"),
+  ("Python", "C/C++", "JavaScript/TypeScript", "Rust", "SQL", "Shell Scripting"),
 )
 
 #resume-skill-item(
   "Web Technologies",
-  ("React", "Svelte", "Next.js", "Node.js", "Django", "FastAPI", "HTML/CSS", "RESTful APIs"),
+  ("React", "Svelte", "Next.js", "Node.js", "Django", "FastAPI", "HTML/CSS", "RESTful APIs", "Web Scraping"),
 )
 
 #resume-skill-item(
   "AI & ML",
-  ("NLP", "Machine Learning", "Deep Learning", "LLMs", "PyTorch", "TensorFlow"),
+  ("NLP", "Machine Learning", "Deep Learning", "Generative AI", "PyTorch", "Large Language Models"),
 )
 
 #resume-skill-item(
   "Cloud & DevOps",
-  ("Docker", "AWS", "GCP", "Firebase", "Supabase", "CI/CD", "Kubernetes", "Terraform"),
+  ("Docker/Docker-Compose", "AWS", "GCP", "Firebase", "Supabase", "CI/CD", "Terraform", "Git"),
 )
 
 #resume-skill-item(
   "Other",
-  ("Git", "Linux", "WebGL", "Three.js", "IoT (Arduino, ESP32, Raspberry Pi)", "Robotics"),
+  ("Linux", "WebGL", "Three.js", "IoT (Arduino, ESP32, Raspberry Pi)", "Robotics Programming"),
 )
 
 #resume-skill-item(

@@ -15,9 +15,9 @@
   recipient: (
     start-title: [Dear Hiring Team,],
     cl-title: [Job Application for Software Engineer],
-    date: [December 11, 2024],
+    date: [December 12, 2024],
     department: [],
-    institution: [Akamai],
+    institution: [Boomi],
     address: [],
     postcode: [],
   ),
@@ -25,14 +25,13 @@
 
 #set par(justify: true, first-line-indent: 2em)
 #set text(weight: "regular", size: 12pt)
-I am writing to express my strong interest in the Software Engineer II position within Akamai's Networks department. As a Computer Science student with extensive experience in software development and AI technologies, I am excited about the opportunity to contribute to Akamai's mission of powering and protecting life online.
+I am writing to express my strong interest in the Software Engineer position at Boomi. As a Computer Science student at Government College of Engineering, Nagpur, with significant experience in software development and AI technologies, I am excited about the opportunity to contribute to Boomi's innovative integration solutions.
 
-My technical background aligns perfectly with your requirements. Through my internship at PolymathAI, I developed AI-powered web applications using the MERN stack and Next.js, improving content organization efficiency by 40%. I have hands-on experience with Python, React, and SQL databases, as demonstrated in my projects AIKO and ARA, where I engineered custom NLP pipelines and implemented scalable data storage systems using PostgreSQL. My experience with Docker, Kubernetes, and AWS, combined with my strong Linux background, positions me well to contribute to your network operations systems. Additionally, my role as Vice President of the Computer Science Student's Association has honed my ability to understand complex business needs and collaborate effectively with diverse teams.
+My technical background aligns perfectly with Boomi's requirements. Through my internship at PolymathAI, I gained hands-on experience developing sophisticated systems using object-oriented programming, particularly in Java and Python. I've worked extensively with APIs and integration technologies, implementing REST and GraphQL endpoints in distributed environments. My project AIKO demonstrates my ability to work with complex systems, where I engineered custom NLP pipelines and implemented serverless architectures using AWS and PostgreSQL. Additionally, my experience with Docker, Kubernetes, and CI/CD pipelines through various projects shows my proficiency in modern DevOps practices. As Technical Head at my college's Student Welfare Committee, I've developed strong leadership and mentoring skills, which would be valuable for collaborating with and guiding other Boomi engineers.
 
-I am particularly drawn to Akamai's commitment to solving challenging technical problems and creating innovative solutions. Your focus on distributed computing and edge technology aligns perfectly with my career aspirations in building scalable, high-performance systems. I am excited about the prospect of joining your team and contributing to the development of robust, scalable tools that help maintain Akamai's global platform.
+I am particularly drawn to Boomi's mission of simplifying integration challenges through innovative solutions. The opportunity to work in an Agile environment while developing cutting-edge features aligns perfectly with my career aspirations. I am confident that my combination of technical skills, leadership experience, and passion for solving complex problems would make me a valuable addition to your team.
 
-Thank you for considering my application. I look forward to discussing how my skills and enthusiasm can contribute to Akamai's continued success.
-
+Thank you for considering my application. I look forward to discussing how I can contribute to Boomi's continued success.
 #par(first-line-indent: 0pt,text(size: 10pt)[_P.S. You can check out my projects at aiko.parapalli.dev and ara.parapalli.dev if you'd like to see my work in action._])
 
 
