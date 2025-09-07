@@ -1,4 +1,4 @@
-#import "@preview/modern-cv:0.5.0": *
+#import "@preview/modern-cv:0.8.0": *
 
 #show: resume.with(
   author: (
@@ -17,25 +17,11 @@
   date: datetime.today().display(),
   language: "en",
   colored-headers: true,
+  profile-picture: none,
 )
 
 // #quote[Innovative Computer Science student and Web Developer with a passion for AI and machine learning. Experienced in full-stack development, with a track record of creating efficient, user-friendly applications. Strong leadership skills demonstrated through various extracurricular roles.]
 
-= Education
-
-#resume-entry(
-  title: "Government College of Engineering, Nagpur",
-  location: "Nagpur, Maharashtra",
-  date: "Jun 2021 -- Present",
-  description: "B.Tech. in Computer Science & Engineering | CGPA: 8.28 / 10",
-)
-
-#resume-entry(
-  title: "G. H. Raisoni Vidyanekatan",
-  location: "Nagpur",
-  date: "Apr 2019 - Mar 2021",
-  description: "12th Standard | CBSE | Percentage: 85 / 100",
-)
 
 = Work Experience
 
@@ -50,7 +36,7 @@
   - Creating AI-powered web application, increasing content organization efficiency by 40% through integration of NLP, LLMs, and machine learning.
   - Leading the development of full-stack applications and web extensions using MERN stack and Next.js
   - Implementing AI models to enhance product functionality and user experience
-  - Developed a robust content scraping framework, cabable of ingesting multiple data formats.
+  - Developed a robust content scraping framework, capable of ingesting multiple data formats.
   - Collaborating with the founding team on feature development spanning web and AI components
 ]
 
@@ -66,6 +52,23 @@
   - Implemented e-commerce functionalities including discount codes and shopping carts, increasing user retention by 20%
   - Integrated Firebase for authentication and executed a game request feature
 ]
+
+
+= Education
+
+#resume-entry(
+  title: "Government College of Engineering, Nagpur",
+  location: "Nagpur, Maharashtra",
+  date: "Jun 2021 -- Jul 2025",
+  description: "B.Tech. in Computer Science & Engineering | CGPA: 8.28 / 10",
+)
+
+#resume-entry(
+  title: "G. H. Raisoni Vidyanekatan",
+  location: "Nagpur",
+  date: "Apr 2019 - Mar 2021",
+  description: "12th Standard | CBSE | Percentage: 85 / 100",
+)
 
 = Projects
 
@@ -145,11 +148,11 @@
 
 #resume-item[
   // - ChromeExtension0: A small chrome extension to quickly save and access those saved pages. \ #link("https://github.com/DevParapalli/ChromeExtension0")[Link : https://github.com/DevParapalli/ChromeExtension0]
-  - AutomaticResults: Developed an automated web scraping tool using Python to extract student results from university portal, parse PDF admit cards, and generate  rankings for 100+ students with 100% accuracy.
+  - AutomaticResults: Developed an automated web scraping tool using Python to extract student results from university portal, parse PDF admit cards, and generate  rankings for 1000+ students with 100% accuracy.
   - Adhyaaya'23: Fast, Modern Website created for Adhyaaya'23, a college tech fest. \ #link("https://adhyaaya23.parapalli.dev")[Link: https://adhyaaya23.parapalli.dev]
   // - Miscellaneous 1: a 30 minute UI-challenge made with SvelteKit \ #link("https://misc1.parapalli.dev")[Link: https://misc1.parapalli.dev]
-  - Adhyaaya'22: Innovative User Experience, written in Svelte \ #link("https://adhyaaya22.parapalli.dev")[Link: https://adhyaaya22.parapalli.dev]
-  - Synergy'22: Departmental Tech-Fest, written in Svelte \ #link("https://synergy22.parapalli.dev")[Link: https://synergy22.parapalli.dev]
+  // - Adhyaaya'22: Innovative User Experience, written in Svelte \ #link("https://adhyaaya22.parapalli.dev")[Link: https://adhyaaya22.parapalli.dev]
+  // - Synergy'22: Departmental Tech-Fest, written in Svelte \ #link("https://synergy22.parapalli.dev")[Link: https://synergy22.parapalli.dev]
 ]
 
 = Skills

@@ -30,6 +30,6 @@ I am writing to express my strong interest in the Software Engineer position at 
 My technical background aligns perfectly with your company's requirements. Through my internship at PolymathAI, I gained hands-on experience developing sophisticated systems using object-oriented programming, particularly in JavaScript and Python. I've worked extensively with APIs and integration technologies, implementing REST and GraphQL endpoints in distributed environments. My project AIKO demonstrates my ability to work with complex systems, where I engineered custom NLP pipelines and implemented serverless architectures using AWS and PostgreSQL. Additionally, my experience with Docker, Kubernetes, and CI/CD pipelines through various projects shows my proficiency in modern DevOps practices. As Technical Head at my college's Student Welfare Committee, I've developed strong leadership and mentoring skills, which would be valuable for collaborating with and guiding other engineers.
 
 Thank you for considering my application. I look forward to discussing how I can contribute to your company's continued success.
-#par(first-line-indent: 0pt,text(size: 10pt)[_P.S. You can check out my projects at aiko.parapalli.dev and ara.parapalli.dev if you'd like to see my work in action._])
+#par(first-line-indent: 0pt,text(size: 10pt)[_P.S. You can check out my projects at aiko.parapalli.dev and ara.parapalli.dev if you'd like to see my work in action. My portfolio is available at parapalli.dev_])
 
 
