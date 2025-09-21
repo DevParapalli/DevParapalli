@@ -35,25 +35,25 @@
   title: "Systems Engineer",
   location: "Hyderabad, Telangana, India",
   company: "Tata Consultancy Services Limited",
-  dates: dates-helper(start-date: "Jul 2025", end-date: "Present"),
+  dates: "Present",
 )
-- Part of the Generative AI CoE in the AI.Cloud Business Group, working on Large-scale, Cloud-based Agentic AI Use-cases for clients.
+- Part of the Generative AI CoE in the AI.Cloud Business Group, working on Large-scale, Cloud-based Agentic AI use-cases.
 - Contributed to the development of data ingestion and RAG pipeline for a client, supporting processing of 1000+ diverse invoice types, including scanned and handwritten documents.
 - Architected a platform migration for a client, helping transition enterprise systems from SAP Cloud Platform to Azure Integration Services (AIS) and implemented Generative AI solutions for migration processes and enhanced platform capabilities.
 
 #work(
   title: "GenAI & Backend Development Intern",
-  location: "Nagpur, Maharashtra, India",
+  location: "",
   company: "PolymathAI",
-  dates: dates-helper(start-date: "Jun 2024", end-date: "August 2024"),
+  dates: none,
 )
 - Implemented a novel Generative AI Pipeline capable of utilizing videos, reducing the time to process videos by 95%.
 
 #work(
   title: "Software Development Engineer Intern",
-  location: "Remote",
+  location: "",
   company: "Gameathon",
-  dates: dates-helper(start-date: "Feb 2023", end-date: "April 2023"),
+  dates: none,
 )
 - Designed and developed a full e-commerce platform for Gameathon, with a user retention rate of 93% for the first year.
 
@@ -63,7 +63,7 @@
 #edu(
   institution: "Government College of Engineering, Nagpur",
   location: "Nagpur, Maharashtra, India",
-  dates: dates-helper(start-date: "Dec 2021", end-date: "Jul 2025"),
+  dates: none,
   degree: "Bachelor's of Technology, Computer Science and Engineering",
 )
 - CGPA: 8.28\/10.0 | Notable Project: Development Containers and CI/CD Pipelines for many notable languages and frameworks.
@@ -72,21 +72,21 @@
 == Projects
 
 #project(
-  dates: dates-helper(start-date: "Jun 2024", end-date: "Present"),
+  dates: none,
   name: "AIKO: AI-powered Knowledge Organizer",
   url: "aiko.parapalli.dev"
 )
 - Innovated a full knowledge management system that processes and organizes information from various sources and modalities.
 - Authored a custom NLP pipeline, reducing token usage by 40% while maintaining 95% accuracy in content classification
-- Conceived an innovative "single-file" plugin architecture with Python, enabling developers to extend functionality with 90% less code
+- Conceived an innovative "single-file" plugin architecture with Python, enabling developers to extend functionality easily.
 - Added comprehensive test coverage (90%+) and CI/CD pipeline using GitHub Actions
 
 #project(
-  dates: dates-helper(start-date: "Jan 2024", end-date: "May 2024"),
+  dates: none,
   name: "ARA: AI Research Assistant",
   url: "ara.parapalli.dev"
 )
-- Identified inefficiencies in academic workflows and built an AI-powered solution that reduced literature review time by 60%
+- Identified inefficiencies in academic workflows and built an Agentic AI solution that reduced literature review time by 60%
 - Pioneered custom streaming LLM framework achieving 80% faster response times compared to standard implementations
 - Optimized core functionality by re-implementing LLM fundamentals in Python, further reducing response time.
 
