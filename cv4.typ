@@ -32,14 +32,14 @@
 == Work Experience
 
 #work(
-  title: "Systems Engineer",
+  title: "Solutions Architect - Cloud & AI",
   location: "Hyderabad, Telangana, India",
   company: "Tata Consultancy Services Limited",
   dates: dates-helper(start-date: "Jul 2025", end-date: "Present"),
 )
-- Part of the Generative AI CoE in the AI.Cloud Business Group, working on Large-scale, Cloud-based Agentic AI Use-cases for clients.
-- Contributed to the development of data ingestion and RAG pipeline for a client, supporting processing of 1000+ diverse invoice types, including scanned and handwritten documents.
-- Architected a platform migration for a client, helping transition enterprise systems from SAP Cloud Platform to Azure Integration Services (AIS) and implemented Generative AI solutions for migration processes and enhanced platform capabilities.
+
+- *NOKIA*: End-to-end deliverance of a cloud migration from on-premises to 
+
 
 #work(
   title: "GenAI & Backend Development Intern",
