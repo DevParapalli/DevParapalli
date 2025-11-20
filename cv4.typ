@@ -38,7 +38,13 @@
   dates: dates-helper(start-date: "Jul 2025", end-date: "Present"),
 )
 
-- *NOKIA*: End-to-end deliverance of a cloud migration from on-premises to 
+- *GenAI CoE (Current)*: Serving as part of an internal team focused on developing novel Generative AI technologies and creating actionable workflows, including a CloudOpsBot for automating common CloudOps tasks and a build failure summarizer with auto-fixing capabilities. Evaluated and deployed various LLMs ranging from 7B to 70B parameters, selecting optimal models based on latency, accuracy, and cost requirements for each use case.
+- *Cisco Capital (Current)*: Collaborated with key stakeholders to establish an AI adoption program and delivered 3 production use-cases with 2 additional use-cases in development. Developed an AI-powered Report Generator that extracts insights from structured and transactional data, supporting both SQL and NoSQL databases by translating natural language queries into platform-native query structures.
+- *Nokia*: Delivered end-to-end cloud migration of manufacturing processes from on-premises SAP ME to GCP using an Assess-Migrate-Manage workflow. Leveraged cloud-native scalable services to ensure High Availability and Automated Disaster Recovery.
+- *Zebra*: Architected AI-workflows for large-scale PO and Invoice ingestion with source merging, automating ingestion, extraction and processing of handwritten, scanned and digital documents into one cohesive platform.
+- *Xerox*: Designed AI use-cases including proactive monitoring for declining machine health, an intelligent ticket assistant, and automated patch testing. 
+
+
 
 
 #work(
@@ -47,7 +53,9 @@
   company: "PolymathAI",
   dates: dates-helper(start-date: "Jun 2024", end-date: "August 2024"),
 )
-- Implemented a novel Generative AI Pipeline capable of utilizing videos, reducing the time to process videos by 95%.
+- Architected and implemented parallelized video processing pipeline for GenAI-powered video analysis platform, reducing processing time from 3 minutes to 10 seconds per video (95% improvement) using platform optimized pipeline-parallel inference techniques. System extracted frames at 1fps intervals, processed images through separate inference calls, and merged results for flashcard generation, Q&A capabilities, and natural language search.
+- Scaled platform to support 100 concurrent users and successfully processed 14,600 videos. Built complete pipeline for video bite creation and multi-modal content understanding, enabling interactive educational content generation from video sources.
+
 
 #work(
   title: "Software Development Engineer Intern",
@@ -55,7 +63,18 @@
   company: "Gameathon",
   dates: dates-helper(start-date: "Feb 2023", end-date: "April 2023"),
 )
-- Designed and developed a full e-commerce platform for Gameathon, with a user retention rate of 93% for the first year.
+- Developed e-commerce features including discount code engine, and multi-processor payment integration using React, Express, MongoDB, and TailwindCSS. Resolved critical inventory management and order processing bottlenecks affecting platform scalability.
+
+#work(
+  title: "Independent Technical Consultant",
+  location: "Remote",
+  company: "Freelance Engagements",
+  dates: dates-helper(start-date: "2020", end-date: "2024"),
+)
+- Delivered 10+ complete software solutions across web applications, mobile development, automation systems, and data migration projects. Built production systems from requirements gathering through deployment for clients requiring custom solutions unavailable in existing platforms.
+- Developed diverse technical implementations including landing pages with Three.js animations, inventory management systems, e-commerce platforms, web scraping and automation workflows, and RAG-powered conversational interfaces. Technology stack included React, Svelte, Node.js, Express, Python, Selenium, LangChain, and various LLM APIs (vLLM, Ollama, cloud providers).
+- Identified security vulnerabilities in production systems through reverse engineering analysis, earning bug bounties for critical findings in 3 Android applications and 2 web platforms during security research phase.
+
 
 
 == Education
@@ -63,7 +82,7 @@
 #edu(
   institution: "Government College of Engineering, Nagpur",
   location: "Nagpur, Maharashtra, India",
-  dates: dates-helper(start-date: "Dec 2021", end-date: "Jul 2025"),
+  dates: dates-helper(start-date: "Dec 2021", end-date: "Jun 2025"),
   degree: "Bachelor's of Technology, Computer Science and Engineering",
 )
 - CGPA: 8.28\/10.0 | Notable Project: Development Containers and CI/CD Pipelines for many notable languages and frameworks.
@@ -76,10 +95,12 @@
   name: "AIKO: AI-powered Knowledge Organizer",
   url: "aiko.parapalli.dev"
 )
-- Innovated a full knowledge management system that processes and organizes information from various sources and modalities.
-- Authored a custom NLP pipeline, reducing token usage by 40% while maintaining 95% accuracy in content classification
-- Conceived an innovative "single-file" plugin architecture with Python, enabling developers to extend functionality with 90% less code
-- Added comprehensive test coverage (90%+) and CI/CD pipeline using GitHub Actions
+
+- Architected multi-modal knowledge management platform processing information from web sources, confidential user uploads, and diverse document types. System performs context-aware RAG across tagged document collections, individual documents, entire corpus, or live internet sources with source merging capabilities.
+- Engineered custom NLP pipeline optimizing token efficiency by using embedding-based retrieval and contextual prompt injection, reducing average input prompt size from 8,192 tokens to 4,608 tokens (44% reduction) while maintaining 90%+ accuracy validated through similarity scoring with cosine and manhattan distances and LLM verification. Optimization directly reduced API costs and improved response latency.
+- Designed novel single-file plugin architecture eliminating traditional plugin boilerplate, enabling developers to extend functionality by defining schema-compliant functions without framework overhead (90% code reduction compared to LangChain plugin patterns).
+- Platform serves active users with positive feedback on functionality. Implemented comprehensive test coverage (90%+) and automated CI/CD pipeline using GitHub Actions for continuous deployment and quality assurance.
+
 
 #project(
   dates: dates-helper(start-date: "Jan 2024", end-date: "May 2024"),
@@ -87,8 +108,7 @@
   url: "ara.parapalli.dev"
 )
 - Identified inefficiencies in academic workflows and built an AI-powered solution that reduced literature review time by 60%
-- Pioneered custom streaming LLM framework achieving 80% faster response times compared to standard implementations
-- Optimized core functionality by re-implementing LLM fundamentals in Python, further reducing response time.
+- Pioneered custom streaming LLM framework achieving 80% faster response times compared to standard implementations using WebSockets rather than SSE or StreamingHTTP. Re-implemented core dataflow processing using C-based libraries in Python to improve tokenization and embedding generation speeds.
 
 // #project(
 //   dates: dates-helper(start-date: "May 2022", end-date: "Present"),
@@ -108,6 +128,21 @@
 // #v(0.75em, weak: true)
 // #extracurriculars(activity: "Technical Lead, Google Developer Club", dates: dates-helper(start-date: "Aug 2022", end-date: "Jul 2023"))
 
+== Leadership & Technical Service
+
+#extracurriculars(activity: "Vice President, Computer Science Students' Association (COMSA)", dates: dates-helper(start-date: "Sep 2023", end-date: "Aug 2024"))
+\
+- Managed team of 20 student leaders organizing departmental technical festivals, hackathons, and technical workshops. Fostered collaborative environment and launched new skill development initiatives that resulted in 500+ technical certifications earned by students across the college.
+
+#extracurriculars(activity: "Co-Head Student Coordinator, Institution's Innovation Council", dates: dates-helper(start-date: "Sep 2022", end-date: "Aug 2023"))
+\
+- Organized innovation-focused events, mentored student technical projects, and established pathways for skill exploration. Coordinated internship opportunities and guided student teams through project development lifecycles.
+
+#extracurriculars(activity: "Technical Lead, Google Developer Student Club", dates: dates-helper(start-date: "Aug 2022", end-date: "Jul 2023"))
+\
+- Managed technical infrastructure for student developer community, organized workshops on modern development practices, and mentored students on cloud technologies and software engineering fundamentals.
+
+
 == Skills And Awards
 
 - *Core Languages:* Python (5+ years, expert), JavaScript/TypeScript (4+ years, advanced), C/C++ (3+ years, intermediate), Go, Java
@@ -117,6 +152,17 @@
 - *DevOps & Infrastructure:* Docker & Docker-Compose (3+ years), Amazon Web Services, Google Cloud Platform (3+ years, certified), Kubernetes, CI/CD Pipelines, Terraform, Infrastructure-as-Code, Cloud-native applications, Linux Administration.
 // - *Awards:* World Robotics Olympiad Runner-up (2017), Regional Finalist TCS TechWiz 2018 and 2019, SIH'23 Finalist
 // - *Interests:* Amateur Robotics, Hobby Rocketry, Open Source Contribution, eSports, Sci-Fi Literature
+
+== Competitive Achievements
+
+#extracurriculars(activity: "Smart India Hackathon 2023 - National Finalist", dates: "Dec 2023")
+\
+- Led AI development for exam proctoring system capable of detecting cheating behaviors through computer vision. System analyzed test-taker positioning, gaze direction, and detected unauthorized secondary displays. Architected locally-running solution providing privacy-focused alternative to cloud-based proctoring.
+
+#extracurriculars(activity: "World Robotics Olympiad - UAE Runner-up (2nd Place)", dates: "Nov 2017")
+\
+- Designed and programmed autonomous farming robot using Lego Mindstorms integrated with Raspberry Pi for agricultural automation proof-of-concept. System performed field navigation, soil preparation, seed planting, watering, and video monitoring. Responsible for Raspberry Pi control system and sensor integration achieving 2nd place in Abu Dhabi international competition (OPEN category).
+
 
 == Publications
 #extracurriculars(activity: "Artificial Intelligence based Knowledge Organizer for diverse data formats", dates: "IJTE - ISTE India")
