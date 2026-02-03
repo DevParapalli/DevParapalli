@@ -34,14 +34,14 @@ Software engineer with 5+ years of hands-on technical experience spanning full-s
 == Work Experience
 
 #work(
-  title: "Solutions Architect - Cloud & AI",
+  title: "Software Development Engineer - Cloud, AI, Python and DBMS",
   location: "Hyderabad, Telangana, India",
   company: "Tata Consultancy Services Limited",
   dates: dates-helper(start-date: "Jul 2025", end-date: "Present"),
 )
 
 - *GenAI CoE (Current)*: Serving as part of an internal team focused on developing novel Generative AI technologies and creating actionable workflows, including a CloudOpsBot for automating common CloudOps tasks and a build failure summarizer with auto-fixing capabilities. Evaluated and deployed various LLMs ranging from 7B to 70B parameters, selecting optimal models based on latency, accuracy, and cost requirements for each use case.
-- *Cisco Capital (Current)*: Collaborated with key stakeholders to establish an AI adoption program and delivered 3 production use-cases with 2 additional use-cases in development. Developed an AI-powered Report Generator that extracts insights from structured and transactional data, supporting both SQL and NoSQL databases by translating natural language queries into platform-native query structures. Implemented a complex Agentic AI Automation workflow for common Finance-related tasks within Cisco's internal tooling, encompassing OracleDB, Docker, Jenkins, OpenShift and Kubernetes. 
+- *Cisco Capital (Current)*: Led the establishment of an AI adoption program in collaboration with key stakeholders across TCS's Cisco Account, successfully delivering five production-ready use cases that transformed operational workflows. Developed and deployed an AI-powered Report Generator that democratizes data access by enabling business users to extract insights from both structured and transactional data through natural language queries, with intelligent translation capabilities that generate optimized queries for SQL and NoSQL databases based on the underlying data platform. Architected and implemented agentic AI systems that automate finance operations tasks across Cisco's internal infrastructure, using OracleDB, Docker, Jenkins, OpenShift, and Kubernetes to eliminate repetitive manual processes and significantly reduce operational overhead for the finance team.
 - *Nokia*: Delivered end-to-end cloud migration of manufacturing processes from on-premises SAP ME to GCP using an Assess-Migrate-Manage workflow. Leveraged cloud-native scalable services to ensure High Availability and Automated Recovery.
 - *Zebra*: Architected AI-workflows for large-scale PO and Invoice ingestion with source merging, automating ingestion, extraction and processing of handwritten, scanned and digital documents into one cohesive platform.
 - *Xerox*: Designed AI use-cases including proactive monitoring for declining machine health, an intelligent ticket assistant, and automated patch testing. 
