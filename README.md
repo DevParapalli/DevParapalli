@@ -2,7 +2,7 @@
 
 Software engineer focused on AI/ML systems, distributed backends, and enterprise cloud infrastructure.
 
-Currently at **TCS**, working with **Cisco**;shipping agentic LLM pipelines that handle 700+ support cases/month in under 30 seconds, FinOps automation saving 800+ man-hours/month, and contributed to a $2M+ enterprise pipeline via technical solutioning for 7 RFPs.
+Currently at **TCS**, working with **Cisco**; shipping agentic LLM pipelines that handle 700+ support cases/month in under 30 seconds, FinOps automation saving 800+ man-hours/month, and contributed to a $2M+ enterprise pipeline via technical solutioning for 7 RFPs.
 
 I build things. I break things apart to understand them, and then put together an improved version.
 
@@ -43,10 +43,10 @@ Cloud Hosted personal knowledge base. 100K+ embedded chunks, hybrid vector + key
 
 ### Find me
 
-📍 Hyderabad, India  
-✉️ [hey@parapalli.dev](mailto:hey@parapalli.dev)  
-🌐 [parapalli.dev](https://parapalli.dev)  
-💼 [linkedin.com/in/devparapalli](https://linkedin.com/in/devparapalli) 
+Location: Hyderabad, TG, India  
+Email: [hey@parapalli.dev](mailto:hey@parapalli.dev)  
+Portfolio: [parapalli.dev](https://parapalli.dev)  
+LinkedIn: [linkedin.com/in/devparapalli](https://linkedin.com/in/devparapalli) 
 
 <details>
 <summary>GitHub Stats</summary>
@@ -57,4 +57,4 @@ Cloud Hosted personal knowledge base. 100K+ embedded chunks, hybrid vector + key
 
 </details>
 
-###### 💾 EOF
+###### EOF
