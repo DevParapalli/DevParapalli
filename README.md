@@ -1,52 +1,60 @@
-# Hello There 👋
+# Hi, I'm Devansh Parapalli 👋
 
-Hello, I am Devansh Parapalli, a (soon to be) full-stack developer. I am currently studying Computer Science at the Government College of Engineering Nagpur. I am a passionate learner and a team player. My current experience spans Web Development, Artificial Intellegence and Machine Learning, along with Python, C/C++ and Reverse Engineering. I am a break-open learner, ie. I break things apart to learn more about them.
-<br />
+Software engineer focused on AI/ML systems, distributed backends, and enterprise cloud infrastructure.
 
-![Email Alpha](https://img.shields.io/static/v1?label=Email&message=parapallidev@gmail.com&color=informational&logo=gmail&style=flat-square)
-![Email Beta](https://img.shields.io/static/v1?label=Email&message=devparapalli@gmail.com&color=informational&logo=gmail&style=flat-square)
+Currently at **TCS**, working with **Cisco**;shipping agentic LLM pipelines that handle 700+ support cases/month in under 30 seconds, FinOps automation saving 800+ man-hours/month, and contributed to a $2M+ enterprise pipeline via technical solutioning for 7 RFPs.
 
-**Languages and Tools:**
+I build things. I break things apart to understand them, and then put together an improved version.
 
-<a href=""><code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code></a>
-<a href=""><code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></a>
-<a href=""><code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code></a>
-<a href=""><code><img height="36" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/css/css.png"></code></a>
-<a href=""><code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code></a>
-<a href=""><code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code></a>
-<a href="https://fastapi.tiangolo.com"><code><img height="36" src="https://fastapi.tiangolo.com/img/icon-white.svg"></code></a>
-<a href=""><code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code></a>
-<a href=""><code><img height="36" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code></a>
-<a href=""><code><img height="36" src="https://raw.githubusercontent.com/github/explore/42198dc9113595ddd22cc12771bb719c8cf08b67/topics/svelte/svelte.png"></code></a>
+---
 
+### What I work with
 
-Working on improving my CSS skills. Open to internships. Feel free to contact [me](mailto:devparapalli@gmail.com).
+**Languages:** Python · TypeScript · C/C++ · SQL · Zig
+
+**AI/ML:** LLM Inference (Claude, Gemini, GPT) · vLLM · LiteLLM · Tool Calling · MCP · Agentic AI · RAG · Hybrid Retrieval · LoRA/QLoRA · Hugging Face
+
+**Distributed Systems:** Kafka · Kubernetes · OpenShift · Docker · Microservices · Event-Driven Architecture
+
+**Backends & DBs:** FastAPI · Node.js/Bun · PostgreSQL w/ pgvector · Redis · MongoDB · OracleDB
+
+**Frontend:** SvelteKit · Next.js · Astro · React
+
+**Cloud:** GCP (Certified Professional Architect) · AWS · Terraform
+
+---
+
+### Featured: AIKO — AI-powered Knowledge Organizer
+
+**[aiko.parapalli.dev](https://aiko.parapalli.dev)**
+
+Cloud Hosted personal knowledge base. 100K+ embedded chunks, hybrid vector + keyword retrieval (MRR 0.75, nDCG@5 0.7), p95 ingest latency of 3s. Built on Vercel, Modal and Supabase. Working on an local-first, offline version.
+
+---
+
+### Certifications
+
+- GCP Professional Cloud Architect *(Dec 2025)*
+- GCP Cloud Digital Leader *(Sep 2025)*
+- GCP Generative AI Leader *(Sep 2025)*
+- Cisco Security Space Program — Flight Academy qualified
+
+---
+
+### Find me
+
+📍 Hyderabad, India  
+✉️ [hey@parapalli.dev](mailto:hey@parapalli.dev)  
+🌐 [parapalli.dev](https://parapalli.dev)  
+💼 [linkedin.com/in/devparapalli](https://linkedin.com/in/devparapalli) 
 
 <details>
+<summary>GitHub Stats</summary>
 
-<summary>My GitHub Stats</summary>
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevParapalli&theme=synthwave&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevParapalli&theme=synthwave&count_private=true&show_icons=true&include_all_commits=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevParapalli&layout=compact&langs_count=8&theme=synthwave&show_icons=true&hide_border=true)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DevParapalli&theme=synthwave&hide_border=true)
 
 </details>
 
-
-
-<br />
-
-<details>
-<summary>Footnotes</summary>
-
-- Thanks to
-  - [GitHub Stats](https://github.com/anuraghazra/github-readme-stats), Provided by [anuraghazra](https://github.com/anuraghazra)
-  - [GitHub Streak](https://github.com/DenverCoder1/github-readme-streak-stats), Provided by [DenverCoder1](https://github.com/DenverCoder1)
-</details>
-
-<details id="beep-boop">
-<summary>beep-boop-beep</summary>
-</details>
 ###### 💾 EOF
