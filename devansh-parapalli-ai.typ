@@ -23,7 +23,7 @@
 
 == Professional Summary
 
-AI/ML engineer with end-to-end production ownership across LLM inference infrastructure, agentic systems, and RAG pipelines. Sole engineer on Cisco production systems;  from requirements through deployment and ongoing maintenance;  serving 700+ monthly cases. Published researcher (IJTE, 2025). Achieved MRR 0.75 / nDCG\@5 0.7 over a 100K-chunk retrieval corpus. GCP Professional Cloud Architect certified.
+AI/ML engineer with end-to-end production ownership across LLM inference infrastructure, agentic systems, and RAG pipelines. Sole engineer on Cisco production systems;  from requirements through deployment and ongoing maintenance;  serving 700+ monthly cases. Published AI/ML researcher (IJTE, 2025). Achieved MRR 0.75 / nDCG\@5 0.7 over a 100K-chunk retrieval corpus. GCP Professional Cloud Architect certified.
 
 == Work Experience
 
@@ -46,7 +46,7 @@ AI/ML engineer with end-to-end production ownership across LLM inference infrast
   company: "PolymathAI",
   dates: dates-helper(start-date: "Jun 2024", end-date: "Aug 2024"),
 )
-- Cut per-video AI processing time by *94% (3 min to 10 sec)* by designing a parallelized inference pipeline across horizontally-scaled containers, processing *14,600+ videos* while optimizing per-instance request caps and cold-start overhead.
+- Cut per-video AI processing time by *94% (3 min to 10 sec)* by designing a parallelized inference pipeline across horizontally-scaled containers, processing *14,600+ videos*, enabling real-time workflows.
 
 == Projects
 
@@ -55,7 +55,7 @@ AI/ML engineer with end-to-end production ownership across LLM inference infrast
   name: "AIKO: AI-powered Knowledge Organizer",
   url: "aiko.parapalli.dev"
 )
-- Achieved *MRR 0.75* and *nDCG\@5 0.7* over a *100K-chunk technical knowledge corpus* by implementing hybrid retrieval combining pgvector semantic search with BM25 keyword fallback, with tuned chunk strategy and embedding model selection across multi-modal content. Published in IJTE, March 2025.
+- Achieved *MRR 0.75* and *nDCG\@5 0.7* over a *100K-chunk technical knowledge corpus* by implementing hybrid retrieval combining pgvector semantic search with keyword search fallback, with tuned chunk strategy and embedding model selection across multi-modal content. Published in IJTE, March 2025.
 - Sustained *p95 ingest latency of 3s* and *p99 of 10s* across a multi-modal document pipeline (PDFs, web content, multimedia) via a custom serialization layer with cloud-native and offline-capable deployment targets.
 - Reduced LLM response latency by *25%* by replacing SSE with custom *WebSocket* duplex streaming for real-time token delivery.
 
@@ -64,7 +64,7 @@ AI/ML engineer with end-to-end production ownership across LLM inference infrast
   name: "ARA: AI-powered Research Assistant",
   url: "ara.parapalli.dev"
 )
-- Built a RAG-based research workspace with live web retrieval and per-prompt source citation as sole engineer across FastAPI, SvelteKit, Supabase, and containerized LLM runners;  one of the earliest full-stack agentic retrieval systems of its kind, deployed across Vercel, Railway, and Modal.
+- Built a RAG-based research workspace with live web retrieval and per-prompt source citation across FastAPI, SvelteKit, Supabase, and containerized LLM runners; deployed across Vercel, Railway, and Modal.
 
 == Education
 
@@ -78,8 +78,7 @@ CGPA: 8.28/10.0
 
 == Technical Skills
 
-*AI/ML:* LLM Inference, vLLM, LiteLLM, Tool Calling, MCP, Agentic AI, Multi-Agent Workflows \
-*Retrieval & Evaluation:* Hybrid Retrieval, pgvector, BM25, Embedding Optimization, MRR, nDCG, Chunk Strategy \
+*AI/ML:* LLM Inference, vLLM, LiteLLM, Tool Calling, MCP, Agentic AI, Multi-Agent Workflows, Hybrid Retrieval, Chunk Strategy \
 *NLP:* Transformers, Hugging Face, Intent Detection, Semantic Ranking, Structured Output Parsing \
 *Languages:* Python, JavaScript/TypeScript, C/C++, SQL, Zig \
 *Frameworks & Libraries:* LangGraph, FastAPI, React.js/Next.js \

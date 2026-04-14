@@ -23,7 +23,7 @@
 
 == Professional Summary
 
-Backend and distributed systems engineer with end-to-end production ownership across event-driven microservices, Kafka-backed ingestion pipelines, and container-orchestrated platforms on Kubernetes and OpenShift. Sole engineer on all Cisco production systems; from requirements through deployment and ongoing maintenance; serving 700+ monthly cases. GCP Professional Cloud Architect certified.
+Backend and distributed systems engineer with end-to-end production ownership across event-driven microservices, Kafka-backed ingestion pipelines, and container-orchestrated platforms on Kubernetes and OpenShift. Sole engineer on  Cisco production systems; from requirements through deployment and ongoing maintenance; serving 700+ monthly cases. GCP Professional Cloud Architect certified.
 
 == Work Experience
 
@@ -38,7 +38,7 @@ Backend and distributed systems engineer with end-to-end production ownership ac
   - Automated SOX audit review for *500+ man-hours/month* of payroll reconciliation by engineering a Python reconciliation pipeline that diffs PAAT payroll records against Oracle General Ledger accruals, then feeds outstanding variances and incoming email justifications into an LLM scoring layer; eliminating the manual auditor review loop end-to-end.
   - Saved *800+ man-hours/month* across *4 FinOps workflows* by building async pipelines with idempotent retry logic and structured error handling: an SOP-driven multi-source report generator (Snowflake, MongoDB, OracleDB), a RAG-backed knowledge chatbot with tool-calling, a natural language to multi-target query translator, and an automated data aggregation and Excel delivery pipeline.
 - *Internal: GenAI Center of Excellence*; Contributed to *\$2M+* in won engagements across *7 RFPs* by delivering technical architecture documents and working prototypes demoed directly to prospective clients, covering cloud migration, high-availability architecture, and AI infrastructure engagements.
-  - Eliminated external API dependency for enterprise model serving (*7B–120B parameters*) by architecting an on-premises *vLLM* and *LiteLLM* inference platform with centralized API gateway routing, RBAC, PII sanitization, and audit logging.
+  - Eliminated external API dependency for enterprise model serving (*7B-120B parameters*) by architecting an on-premises *vLLM* and *LiteLLM* inference platform with centralized API gateway routing, RBAC, PII sanitization, and audit logging.
 
 #work(
   title: "Backend Development Intern",
@@ -64,7 +64,7 @@ Backend and distributed systems engineer with end-to-end production ownership ac
   name: "ARA: AI-powered Research Assistant",
   url: "ara.parapalli.dev"
 )
-- Built a full-stack RAG-based research workspace with inline web retrieval and cited AI responses as sole engineer across SvelteKit, FastAPI, Supabase, and containerized LLM runners; deployed across Vercel, Railway, and Modal.
+- Built a full-stack RAG-based research workspace with inline web retrieval and cited AI responsess across SvelteKit, FastAPI, Supabase, and containerized LLM runners; deployed across Vercel, Railway, and Modal.
 
 == Education
 
@@ -83,7 +83,7 @@ CGPA: 8.28/10.0
 *Distributed Systems:* Kafka, Event-Driven Architecture, Microservices, Horizontal Scaling, API Gateways \
 *Databases:* PostgreSQL w/ pgvector, Redis, MongoDB, OracleDB, Spanner, Snowflake \
 *Cloud & Infrastructure:* GCP (Certified Architect), AWS (EC2, S3, EKS), Docker, Kubernetes, OpenShift, Terraform \
-*DevOps & Tools:* Git, GitHub Actions, Jenkins CI (Jenkinsfile), SonarQube, Linux \
+*DevOps & Tools:* Git, GitHub Actions, Jenkins CI, SonarQube, Linux \
 
 == Certifications & Achievements
 
