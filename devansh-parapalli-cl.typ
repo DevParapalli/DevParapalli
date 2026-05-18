@@ -6,7 +6,7 @@
   margin: (left: 2cm, right: 2cm, top: 3cm, bottom: 2cm),
   name: [Devansh Parapalli],
   address: [],
-  salutation: [Best regards,],
+  // salutation: [Best regards,],
   supplements: (),
   contacts: (
     (text: [Hyderabad, TG, India]),
@@ -39,4 +39,4 @@ I have been working seriously in AI since 2019, with two published papers and pr
 
 What I am looking for is a team working at a scale I cannot replicate alone. I am comfortable going from a whiteboard conversation with a non-technical stakeholder to a systems design doc to a deployed service. I want to do that on harder problems, with people who will push back on my thinking.
 
-I would love to bring that instinct to Google.
+I would love to bring that instinct to your company.
