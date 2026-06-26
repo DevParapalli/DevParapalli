@@ -1,3 +1,8 @@
+// GENERIC COVER LETTER. Replace per application:
+//   1. recipient.institution -> [Company Name]
+//   2. recipient.cl-title    -> [Role] Application   (e.g. [AI/ML Engineer Application])
+//   3. body: the [Role] and [Company] placeholders in the first and last paragraphs
+
 #import "@preview/fontawesome:0.6.0": *
 #import "@preview/modernpro-coverletter:0.0.8": *
 
@@ -16,11 +21,11 @@
     (text: [hey\@parapalli.dev], link: "mailto:hey@parapalli.dev"),
   ),
   recipient: (
-    start-title: [],
+    start-title: [Dear Hiring Manager,],
     cl-title: [],
     date: [],
     department: [],
-    institution: [],
+    institution: [Company Name],
     address: [],
     postcode: [],
   ),
@@ -33,10 +38,11 @@
 
 
 
-The past year has been an exercise in figuring things out without a net. As the sole engineer across three concurrent production engagements at Cisco, I scoped requirements directly with client stakeholders, made architecture decisions without a technical safety net, and shipped systems that are still running in production. That experience taught me how to move fast on ambiguous problems and stay accountable to outcomes, not just deliverables.
+I am applying for the AI/ML Engineer position at Company Name. Over the past year I have owned AI systems end to end at Cisco, from requirements and architecture through to production. As the lead, and often the sole, engineer across concurrent production engagements, I scoped directly with stakeholders, made architecture decisions with no one above me to catch a bad call, and shipped systems that are still running. That experience taught me to move on ambiguous problems and stay accountable to outcomes, not just deliverables.
 
-I have been working seriously in AI since 2019, with two published papers and production systems spanning LLM inference, agentic workflows, and retrieval at scale. I hold a GCP Professional Cloud Architect certification and have built on Google Cloud across both production client work and personal infrastructure I run and maintain myself.
+I have worked in AI in earnest for years, with published research including a peer-reviewed journal paper and a preprint, and production systems spanning LLM inference, agentic workflows, and retrieval at scale. I hold a GCP Professional Cloud Architect certification and build on both Google Cloud and OCI, across client work and the personal infrastructure I run and maintain myself.
 
-What I am looking for is a team working at a scale I cannot replicate alone. I am comfortable going from a whiteboard conversation with a non-technical stakeholder to a systems design doc to a deployed service. I want to do that on harder problems, with people who will push back on my thinking.
+What I am looking for is a team operating at a scale I cannot reach alone. I am comfortable going from a whiteboard conversation with a non-technical stakeholder, to a systems design doc, to a deployed service. I want to do that on harder problems, with people who will push back on my thinking.
 
-I would love to bring that instinct to your company.
+I would like to bring that ownership to Company Name, on problems bigger than I can take on by myself. I would welcome the chance to talk about where I could contribute.
+
