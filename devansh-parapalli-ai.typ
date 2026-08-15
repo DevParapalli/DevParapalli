@@ -29,15 +29,15 @@ Solo engineer on the first production agent system at Cisco, now a technical lea
 == Work Experience
 
 #work(
-  title: "Software Development Engineer",
+  title: "Software Development Engineer - Technical Lead, AI Systems",
   location: "Hyderabad, India",
   company: "Tata Consultancy Services Limited",
   dates: dates-helper(start-date: "Jul 2025", end-date: "Present"),
 )
-- *Client: Cisco* -- First engineer on the production agent platform; grew to a team of 8 under my technical lead within 6 months. Owned requirements, architecture, and cross-functional alignment across support, FinOps, and audit teams over multiple concurrent production engagements.
+- *Client: Cisco* -- First engineer on the production agent platform for Finance; grew to a team of 8 under my technical lead within 6 months. Owned requirements, architecture, and cross-functional alignment across support, FinOps, and audit teams over multiple concurrent production engagements.
   - *Support automation*: Cut support triage from a full business day to under 30 seconds for multiple finance tracks within Cisco using multi-intent detection, tool-calling, MCP Servers, Kafka event streaming and auto-scaling runners. 95% of cases close autonomously, 4% complete AI-side pending human verification against external systems, 1% escalate unhandled; 100+ cases per track every month.
   - *Finance automation*: Saved 1,000+ person-hours a month across payroll review and FinOps reporting by replacing manual work with AI-enabled pipelines over Snowflake, Oracle, MongoDB, plus a self-built DAG framework for extensible quarterly executive fund-flow reporting on highly restricted data; one quarter and one year-end closed with zero rework required.
-  - *Data reconciliation platform*: Designed and built a reconciliation engine that turns plain-English steps into concrete processing and matching operations, handling 100+ workflows at 1M+ rows per side with type-aware normalization, making false-positives impossible.
+  - *Data reconciliation platform*: Designed and built a reconciliation engine that turns plain-English steps into concrete processing and matching operations, handling 100+ workflows at 1M+ rows per side with type-aware normalization, eliminating false-positives.
   - *Audit validation*: Built an independent audit for a production document processing pipeline, validating its output through a deliberately different methodology and flagging where the two disagree; surfaces a real error in roughly 1 of every 30 documents the primary pipeline passed, at a false-flag rate of 1 in 1,000. Calibrated with eval sets and human review, sampling 30% of global invoices daily. Replaced an LLM-as-a-Judge prototype for speed and cost reasons.
 - *Internal: GenAI Center of Excellence* -- Led technical architecture and client demos for 10 RFPs spanning GenAI enablement, cloud migration, and legacy modernization.
   - Architected an on-premises vLLM + LiteLLM platform with gateway routing, PII detection, RBAC, and audit logging for internal model serving with no external API dependency; handed to a platform team for production.
