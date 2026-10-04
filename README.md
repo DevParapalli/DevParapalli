@@ -2,7 +2,7 @@
 
 Software engineer focused on AI/ML systems, distributed backends, and enterprise cloud infrastructure.
 
-Currently at **TCS**, working with **Cisco**; shipping agentic LLM pipelines that handle 700+ support cases/month in under 30 seconds, FinOps automation saving 800+ man-hours/month, and contributed to a $2M+ enterprise pipeline via technical solutioning for 7 RFPs.
+Currently at **TCS**, working with **Cisco**; shipping AI agents that handle 750+ support cases/month with 95% autonomous closure and triage in under 30 seconds, finance automation saving 2,300+ person-hours/month, and an agent framework on Google ADK + A2A that runs 6 production tracks. Technical architecture on 14 enterprise RFPs, 7 won ($450M+ TCV).
 
 I build things. I break things apart to understand them, and then put together an improved version.
 
@@ -20,7 +20,7 @@ I build things. I break things apart to understand them, and then put together a
 
 **Frontend:** SvelteKit · Next.js · Astro · React
 
-**Cloud:** GCP (Certified Professional Architect) · AWS · Terraform
+**Cloud:** GCP (Certified Professional Architect) · Terraform
 
 ---
 
@@ -28,7 +28,7 @@ I build things. I break things apart to understand them, and then put together a
 
 **[aiko.parapalli.dev](https://aiko.parapalli.dev)**
 
-Cloud Hosted personal knowledge base. 100K+ embedded chunks, hybrid vector + keyword retrieval (MRR 0.75, nDCG@5 0.7), p95 ingest latency of 3s. Built on Vercel, Modal and Supabase. Working on an local-first, offline version.
+Cloud Hosted personal knowledge base. 100K+ embedded chunks, hybrid vector + keyword retrieval (MRR 0.75, nDCG@5 0.7), p95 ingest latency of 3s. Built on Vercel, Modal and Supabase. Working on a local-first, offline version.
 
 ---
 
@@ -37,6 +37,7 @@ Cloud Hosted personal knowledge base. 100K+ embedded chunks, hybrid vector + key
 - GCP Professional Cloud Architect *(Dec 2025)*
 - GCP Cloud Digital Leader *(Sep 2025)*
 - GCP Generative AI Leader *(Sep 2025)*
+- Verify on [Credly](https://www.credly.com/users/devansh-parapalli)
 - Cisco Security Space Program — Flight Academy qualified
 
 ---

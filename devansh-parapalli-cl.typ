@@ -15,7 +15,7 @@
   supplements: (),
   contacts: (
     (text: [Hyderabad, TG, India]),
-    (text: [+91 87931 50182], link: "tel:+918793150182"),
+    (text: [+91 8856962057], link: "tel:+918856962057"),
     (text: [parapalli.dev], link: "https://parapalli.dev"),
     (text: [github.com/DevParapalli], link: "https://github.com/DevParapalli"),
     (text: [hey\@parapalli.dev], link: "mailto:hey@parapalli.dev"),
@@ -38,7 +38,7 @@
 
 
 
-I am applying for the AI/ML Engineer position at Company Name. Over the past year I have owned AI systems end to end at Cisco, from requirements and architecture through to production. As the lead, and often the sole, engineer across concurrent production engagements, I scoped directly with stakeholders, made architecture decisions with no one above me to catch a bad call, and shipped systems that are still running. That experience taught me to move on ambiguous problems and stay accountable to outcomes, not just deliverables.
+I am applying for the AI/ML Engineer position at Company Name. Since July 2025 I have owned AI systems end to end at Cisco, from requirements and architecture through to production. I started as the sole engineer on its Finance agent platform and now lead a team of 8 on it. I scope directly with stakeholders, make architecture decisions with no one above me to catch a bad call, and have shipped systems that are still running. That experience taught me to move on ambiguous problems and stay accountable to outcomes, not just deliverables.
 
 I have worked in AI in earnest for years, with published research including a peer-reviewed journal paper and a preprint, and production systems spanning LLM inference, agentic workflows, and retrieval at scale. I hold a GCP Professional Cloud Architect certification and build on both Google Cloud and OCI, across client work and the personal infrastructure I run and maintain myself.
 

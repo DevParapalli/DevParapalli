@@ -5,7 +5,7 @@
 #let email = "hey@parapalli.dev"
 #let github = "github.com/DevParapalli"
 #let linkedin = "linkedin.com/in/devparapalli"
-#let phone = "+91 87931 50182 / +91 88569 62057"
+#let phone = "+91 8856962057"
 #let personal-site = "parapalli.dev"
 
 #show: resume.with(
@@ -25,25 +25,30 @@
 
 == Professional Summary
 
-AI/ML and backend systems engineer with end-to-end production ownership across LLM inference infrastructure, agentic pipelines, event-driven microservices, and container-orchestrated platforms. Sole engineer on Cisco production systems — from requirements through deployment and ongoing maintenance — serving 700+ monthly cases. Achieved MRR 0.75 / nDCG\@5 0.7 over 100K-chunk retrieval corpus. Cut video processing time 95% and case resolution time from 1+ day to under 30 seconds. Published AI/ML researcher (IJTE, 2025). GCP Professional Cloud Architect certified.
+AI/ML and backend systems engineer with end-to-end production ownership across LLM inference infrastructure, agentic pipelines, event-driven microservices, and container-orchestrated platforms. Founding engineer and technical lead on Cisco's Finance agent platform — from requirements through production operations. Achieved MRR 0.75 / nDCG\@5 0.7 over 100K-chunk retrieval corpus. Cut video processing time 12x and case resolution time from 1+ day to under 30 seconds. Published AI/ML researcher (IJTE, 2025). GCP Professional Cloud Architect certified.
 
 
 == Work Experience
 
 #work(
-  title: "Software Development Engineer — Cloud, AI, Python & DBMS",
+  title: "Systems Engineer",
   location: "Hyderabad, India",
   company: "Tata Consultancy Services Limited",
   dates: dates-helper(start-date: "Jul 2025", end-date: "Present"),
 )
 
-- *Client: Cisco Capital* — Sole engineer across all projects; self-directed from requirements through production deployment and ongoing maintenance. Outcomes reviewed directly by client stakeholders.
-  - Reduced case resolution time from *1+ day to under 30 seconds* for *700+ monthly tickets* by building *AIT CaseIQ*: designed multi-intent detection, agentic tool-calling LLM workflows, and structured output delivery over a *Kafka*-backed event-driven ingestion architecture with auto-scaling containerized runners on OpenShift/Kubernetes, decoupling load spikes from processing capacity.
-  - Automated SOX audit review eliminating *500+ man-hours/month* of payroll reconciliation by engineering a Python pipeline that diffs PAAT payroll records against Oracle General Ledger accruals, feeds outstanding variances and incoming email justifications into an LLM scoring layer, and tracks gaps — replacing the manual auditor review loop end-to-end.
-  - Saved *800+ man-hours/month* across *4 FinOps workflows* by building async LangGraph-orchestrated pipelines with idempotent retry logic: an SOP-driven multi-source report generator (Snowflake, MongoDB, OracleDB), a RAG + tool-calling knowledge chatbot, a natural language to multi-target query translator (SQL + NoSQL), and an automated data aggregation and Excel delivery pipeline.
-- *Internal: GenAI Centre of Excellence* — Contributed to *\$2M+* in won engagements across *7 RFPs* by delivering technical architecture documents and working prototypes demoed directly to prospective clients, covering GenAI enablement, cloud migration, high-availability architecture, and legacy infrastructure modernization.
+- *Client: Cisco Capital* — Founding engineer; scaled the team to 8 engineers under my technical lead within 6 months, owning requirements, architecture, and cross-functional alignment with support, FinOps, and audit. Outcomes reviewed directly by client stakeholders.
+  - Reduced case resolution time from *1+ day to under 30 seconds* for *750+ monthly tickets* at *95% autonomous closure* (4% pending human verification, 1% escalated) by building *AIT CaseIQ*: designed multi-intent detection, agentic tool-calling LLM workflows, and structured output delivery over a *Kafka*-backed event-driven ingestion architecture with auto-scaling containerized runners on OpenShift/Kubernetes, decoupling load spikes from processing capacity.
+  - Built the agent framework on *Google ADK* with backward-compatible *A2A* protocol extensions and a codegen layer that lets business users stand up agents themselves; runs *6 tracks* and *8 agents*, all shipped within the first month of codegen; a new track onboards in *4–5 hours*.
+  - Automated SOX audit review eliminating *1,000+ person-hours/month* of payroll reconciliation by engineering a Python pipeline that diffs PAAT payroll records against Oracle General Ledger accruals, feeds outstanding variances and incoming email justifications into an LLM scoring layer, and tracks gaps — replacing the manual auditor review loop end-to-end.
+  - Saved *1,300+ person-hours/month* across *4 FinOps workflows* by building async LangGraph-orchestrated pipelines with idempotent retry logic: an SOP-driven multi-source report generator (Snowflake, MongoDB, OracleDB), a RAG + tool-calling knowledge chatbot, a natural language to multi-target query translator (SQL + NoSQL), and an automated data aggregation and Excel delivery pipeline.
+  - Built a data reconciliation engine that compiles plain-English steps into processing and matching operations, running *100+ workflows* at *1M+ rows per side* with type-aware normalization that eliminates false positives.
+  - Built an independent audit layer for a production document-processing pipeline, using a deliberately different methodology so agreement between the two is real evidence; catches a real error in \~1 of 30 documents the primary pipeline passed at a *1-in-1,000* false-flag rate, sampling *30% of global invoices* daily. Calibrated with eval sets and human review; replaced an LLM-as-a-Judge prototype on speed and cost.
+  - Led the AI reskilling of *\~70 application-support engineers and managers* into AI-native workflows; *75%* now run AI agents in their day-to-day work.
+- *Internal: GenAI Centre of Excellence* — Led technical architecture across *14 RFPs*, *7 won* totalling *\$450M+ TCV*, delivering technical architecture documents and working prototypes demoed directly to prospective clients, covering GenAI enablement, cloud migration, high-availability architecture, and legacy infrastructure modernization.
   - Eliminated external API dependency for enterprise model serving (*7B–120B parameters*) by architecting on-premises *vLLM* + *LiteLLM* inference platform with centralized API gateway routing, RBAC, PII sanitization, and audit logging.
-  - Designed AI use-cases for Nokia (cloud migration of SAP ME to GCP with Assess-Migrate-Manage workflow), Zebra (large-scale PO/Invoice ingestion with multi-source merging for handwritten, scanned and digital documents), and Xerox (proactive machine health monitoring, intelligent ticket assistant, automated patch testing).
+  - Authored a 21-use-case GenAI adoption roadmap for a European semiconductor manufacturer on Vertex AI and Gemini Enterprise, including on-premises infrastructure that keeps confidential engineering data inside their data center.
+  - Designed AI use-cases for a global telecom equipment maker (migration of SAP ME manufacturing software to GKE across all production sites, with an Assess-Migrate-Manage workflow), a barcode and mobile computing hardware maker (large-scale PO/invoice ingestion with multi-source merging for handwritten, scanned and digital documents), and a print and document technology company (proactive machine health monitoring, intelligent ticket assistant, automated patch testing).
 
 
 #work(
@@ -53,7 +58,7 @@ AI/ML and backend systems engineer with end-to-end production ownership across L
   dates: dates-helper(start-date: "Jun 2024", end-date: "Aug 2024"),
 )
 
-- Cut per-video AI processing time by *94% (3 min → 10 sec)* by designing a parallelized inference pipeline across horizontally-scaled containers, processing *14,600+ videos* while optimizing per-instance request caps and cold-start overhead for cost efficiency. System extracted frames at 1fps, processed images through separate inference calls, and merged results for flashcard generation, Q&A, and natural language search.
+- Cut per-video AI processing time *12x (3 min → 15 sec)* by designing a parallelized inference pipeline across horizontally-scaled containers, processing *14,600+ videos* while optimizing per-instance request caps and cold-start overhead for cost efficiency. System extracted frames at 1fps, processed images through separate inference calls, and merged results for flashcard generation, Q&A, and natural language search.
 - Scaled platform to support *100 concurrent users*; built complete pipeline for video bite creation and multi-modal content understanding enabling interactive educational content generation.
 - Led full-stack development of web extensions using MERN stack and Next.js; developed robust content scraping framework supporting multiple data formats.
 
@@ -155,7 +160,7 @@ AI/ML and backend systems engineer with end-to-end production ownership across L
 - *Languages & Frameworks:* Python (5+ yrs, expert), JavaScript/TypeScript (4+ yrs, expert), C/C++ (3+ yrs), SQL, Zig, Rust, Java. FastAPI, Django, Node.js/Bun, React.js, Next.js, Svelte/SvelteKit, Express, TailwindCSS, Three.js, PWA.
 - *Distributed Systems:* Kafka, Event-Driven Architecture, Microservices, Horizontal Scaling, API Gateways, WebSockets.
 - *Databases:* PostgreSQL (w/ pgvector), Redis, MongoDB, OracleDB, Snowflake, SQLite, Spanner, Supabase, Firebase.
-- *Cloud & Infrastructure:* GCP (Certified Professional Cloud Architect — Document AI, Vertex AI, Cloud Run, Compute Engine), AWS (EC2, S3, EKS, ECS, IAM), Docker, Kubernetes, OpenShift, Terraform.
+- *Cloud & Infrastructure:* GCP (Certified Professional Cloud Architect — Document AI, Vertex AI, Cloud Run, Compute Engine), Docker, Kubernetes, OpenShift, Terraform.
 - *DevOps & Tools:* GitHub Actions CI/CD, Jenkins (Jenkinsfile), SonarQube, Git, Linux system administration, web scraping (Selenium), process automation.
 - *Embedded & Other:* IoT (Arduino, ESP32, Raspberry Pi), WebGL, Robotics programming, CUDA (NVIDIA certified).
 
@@ -213,7 +218,9 @@ AI/ML and backend systems engineer with end-to-end production ownership across L
 
 == Certifications
 
-#extracurriculars(activity: "Professional Cloud Architect", dates: dates-helper(start-date: "Dec 2025", end-date: "Dec 2028"))
+All Google Cloud credentials are verifiable at #link("https://www.credly.com/users/devansh-parapalli")[credly.com/users/devansh-parapalli].
+
+#extracurriculars(activity: "Professional Cloud Architect", dates: dates-helper(start-date: "Dec 2025", end-date: "Dec 2027"))
 \
 Credential ID: `e9709e75c5fb4491b383e0be91106499` #h(1fr) Google Cloud Platform
 

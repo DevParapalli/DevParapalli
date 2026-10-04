@@ -7,7 +7,7 @@ Career and skill development tracker. Updated as items are completed or repriori
 ## Resume & Job Search
 
 - [ ] Compile a list of target FAANG / FAANG-adjacent companies and open roles
-- [ ] Tailor the summary in `_ai_resume.typ` or `_swe_resume.typ` per company if needed (e.g., Meta = scale/product, Amazon = operational excellence, Google = algorithms/design)
+- [ ] Tailor the summary in `devansh-parapalli-ai.typ` or `devansh-parapalli-swe.typ` per company if needed (e.g., Meta = scale/product, Amazon = operational excellence, Google = algorithms/design)
 - [ ] Add open source contributions to resume once meaningful PRs are merged
 - [ ] Add competitive programming section if consistently solving LC Medium/Hard
 
